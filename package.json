@@ -1,0 +1,15 @@
+{
+  "name": "voxyCodingChallenge-server",
+  "version": "1.0.0",
+  "description": "vodxy coding challenge",
+  "main": "index.js",
+  "repository": "https://github.com/vinils/voxyCodingChallenge-server",
+  "author": "VLS",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
